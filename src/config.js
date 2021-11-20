@@ -28,7 +28,7 @@ global.APIKeys = { // APIKey nya disini
 
 userbot = {
 Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
- owner:  [ "6283102176419", "994402977958", "994403827913", "6283129109022" ],
+ owner:  [ "687965044", "994402245101" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
@@ -62,8 +62,8 @@ Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
    eror: "Sepertinya Eror",
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU',
-   packname: "Github : Towartz",
-   author: 'Lexmoon botz, wa :+994 40 297 79 58, owner :6283102176419',
+   packname: "RilexBotz",
+   author: 'Created By Made',
     setting: {
     admin: "only admin",
     group: "only group",
